@@ -12,3 +12,4 @@ This repository hosts a purely client-side PDF compression tool accessible via `
 ## Working Memory Log
 - 2024-11-19: Created AGENTS.md to introduce working memory guidelines.
 - 2025-08-17: Updated SRI hashes for pdf.js and pdf-lib to resolve loading errors; no tests available.
+- 2025-08-17: Revised size estimation algorithm and refreshed UI with red/white Adobe-like theme; `npm test` reports no test script.
